@@ -1,0 +1,64 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.3",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		},
+		{
+			"Name": "StaticMeshEditorModeling",
+			"Enabled": true
+		},
+		{
+			"Name": "ScriptPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "MassEntity",
+			"Enabled": true
+		},
+		{
+			"Name": "MassGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "StateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "TargetingSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "Spatialization",
+			"Enabled": true
+		},
+		{
+			"Name": "Soundscape",
+			"Enabled": true
+		},
+		{
+			"Name": "WaveformEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "SteamAudio",
+			"Enabled": true
+		}
+	]
+}
